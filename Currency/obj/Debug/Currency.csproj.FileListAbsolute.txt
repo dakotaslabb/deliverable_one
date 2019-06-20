@@ -1,0 +1,7 @@
+C:\Users\Dakota\source\repos\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Dakota\source\repos\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Dakota\source\repos\Currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\Dakota\source\repos\Currency\Currency\bin\Debug\Currency.exe
+C:\Users\Dakota\source\repos\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\Dakota\source\repos\Currency\Currency\obj\Debug\Currency.exe
+C:\Users\Dakota\source\repos\Currency\Currency\obj\Debug\Currency.pdb
